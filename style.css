@@ -48,3 +48,14 @@ table {
 }
 
 /* Style */
+body {
+    font: 16px/28px 'Montserrat', arial, sans-serif;
+    background-color: #16161a;
+    color: #94a1b2;
+}
+
+
+.container {
+    width: 800px;
+    margin: auto;
+}
