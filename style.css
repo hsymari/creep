@@ -86,3 +86,13 @@ body {
     background-color: #16161a;
     color: #fffffe;
 }
+
+.hero {
+    height: 280px;
+    background-image: url(images/hero.png);
+    background-size: cover;
+    background-position: 0 -100px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid #fffffe;
+    margin-top: -20px;
+}
