@@ -96,3 +96,42 @@ body {
     border-bottom: 5px solid #fffffe;
     margin-top: -20px;
 }
+
+.content {
+    padding: 28px;
+}
+
+.content h2 {
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.content .penulis {
+    font-size: 13px;
+}
+
+.content .penulis a {
+    text-decoration: none;
+    color: black;
+}
+
+.content .penulis a:hover {
+    background-color: black;
+    color: white;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    letter-spacing: 0.1px;
+}
+
+.footer {
+    background-color: #94a1b2;
+    padding: 15px;
+}
+
+.footer .copy {
+    text-align: center;
+    font-size: 18px;
+}
