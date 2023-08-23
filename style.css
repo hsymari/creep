@@ -51,11 +51,38 @@ table {
 body {
     font: 16px/28px 'Montserrat', arial, sans-serif;
     background-color: #16161a;
-    color: #94a1b2;
+    color: #fffffe;
 }
 
 
 .container {
     width: 800px;
     margin: auto;
+    background-color: #72757e;
+}
+
+.header {
+    padding: 40px;
+}
+
+.header .judul {
+    font-size: 54px;
+    font-weight: bold;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #fffffe;
+    padding: 3px;
+}
+
+.header a:hover {
+    background-color: #16161a;
+    color: #fffffe;
 }
